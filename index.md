@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="./style.css"/>
+<link rel="stylesheet" href="https://unpkg.com/sanitize.css"/>
 
 # tanitta
 
