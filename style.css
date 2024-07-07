@@ -7,10 +7,5 @@ color: #810081;
 }
 
 a:hover {
-color: #0000EE;
 text-decoration:underline;
-}
-
-a:active {
-color: #0000EE;
 }
