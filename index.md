@@ -47,7 +47,7 @@ cf. [VRクラブ『GHOSTCLUB』メイキング \| CGWORLD JAM vol\.4 \- CG特化
 
 Prop Modeling
 
-cf. [攻殻機動隊 SAC_2045 EXHIBITION “In The Shell” | PARCO MUSEUM TOKYO](https://art.parco.jp/museumtokyo/detail/?id=985)
+cf. [攻殻機動隊 SAC_2045 EXHIBITION “In The Shell” PARCO MUSEUM TOKYO](https://art.parco.jp/museumtokyo/detail/?id=985)
 
 ### SANRIO Nakayoku Connect
 20220715
