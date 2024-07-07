@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="https://unpkg.com/sanitize.css" referrerpolicy="no-referrer-when-downgrade"/>
+<link rel="stylesheet" href="./style.css"/>
 
 # tanitta
 
