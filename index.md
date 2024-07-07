@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="./style.css"/>
+
 # tanitta
 
 <img src="https://github.com/tanitta/tanitta.github.io/assets/1937287/2f1d45be-38dc-4ac0-a872-e34a8e0b0a57" width="64">
