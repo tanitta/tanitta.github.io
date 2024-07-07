@@ -1,5 +1,13 @@
 # tanitta
 
+<img src="https://github.com/tanitta/tanitta.github.io/assets/1937287/2f1d45be-38dc-4ac0-a872-e34a8e0b0a57" width="64">
+
+## Links
+
+- [Tumblr](https://tritdesign.tumblr.com/)
+
+- [Twitter](https://x.com/trit_techne)
+
 ## Works
 
 ### GHOSTCLUB5.0
@@ -39,21 +47,22 @@ cf. [VRクラブ『GHOSTCLUB』メイキング \| CGWORLD JAM vol\.4 \- CG特化
 
 Prop Modeling
 
-cf. https://art.parco.jp/museumtokyo/detail/?id=985
+cf. [攻殻機動隊 SAC_2045 EXHIBITION “In The Shell” | PARCO MUSEUM TOKYO](https://art.parco.jp/museumtokyo/detail/?id=985)
 
 ### SANRIO Nakayoku Connect
 20220715
 
 Art Direction
 
-cf. https://x.com/trit_techne/status/1539097677618905088
+cf. [https://x.com/trit_techne/status/1539097677618905088](https://x.com/trit_techne/status/1539097677618905088)
 
 ### SANRIO Virtual Festival 2023 kinu 5th live "はじまりのおわり"
 20230121
 
 Creative Assistant
+cf. [【VR Live】kinu 5th live "はじまりのおわり" \- YouTube](https://www.youtube.com/watch?v=iCwGa-XwKsA)
 
-cf. https://x.com/kinu_kaiko/status/1611664108138684416
+cf. [https://x.com/kinu_kaiko/status/1611664108138684416](https://x.com/kinu_kaiko/status/1611664108138684416)
 
 ### CAPSULE Live in VRChat メトロパルス
 20230805
@@ -74,7 +83,7 @@ cf. [モチポリ・ファクトリー \| SANRIO Virtual Festival 2024 in Sanrio
 
 Creative Assistant
 
-cf. https://x.com/kinu_kaiko/status/1760974005765570762
+cf. [https://x.com/kinu_kaiko/status/1760974005765570762](https://x.com/kinu_kaiko/status/1760974005765570762)
 
 ### META=KNOT 2024 in AKASAKA BLITZ
 20240330
@@ -109,4 +118,4 @@ cf. [FZMZ \| OFFICIAL WEB SITE](https://fzmz.jp/news/in.html?id=564649)
 
 Prop Modeling
 
-cf. https://x.com/project_zia/status/1806991025224954230
+cf. [https://x.com/project_zia/status/1806991025224954230](https://x.com/project_zia/status/1806991025224954230)
