@@ -1,16 +1,16 @@
 a:link {
-color:-webkit-link;
+color: #0000EE;
 }
 
 a:visited {
-color:-webkit-visitedlink;
+color: #551A8B;
 }
 
 a:hover {
-color:-webkit-hoverlink;
+color: #0000EE;
 text-decoration:underline;
 }
 
 a:active {
-color:-webkit-activelink;
+color: #0000EE;
 }
