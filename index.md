@@ -29,11 +29,15 @@ Houdiniによるゲームエンジンのためのアセットワークフロー�
 cf. [Houdini 夜会 SP \- CGWORLD 2021 クリエイティブカンファレンス](https://cgworld.jp/special/cgwcc2021/schedule/houdini-yakai/index.html)
 
 ### CGWORLD vol.284
+20220310
+
 本誌、Webページにてインタビュー掲載
 
 cf. [CGWORLD vol.284 特集ページ](https://cgworld.jp/article/202203-ghostclub.html)
 
 ### CGWORLD vol.290
+20220909
+
 本誌、Webページにてインタビュー掲載
 
 cf. [CGWORLD vol.290 特集ページ](https://cgworld.jp/article/202209-ghostclub.html)
