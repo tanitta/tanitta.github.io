@@ -15,7 +15,7 @@
 ### GHOSTCLUB5.0
 Prop Modeling
 
-cf. [ゴーストクラブ\.コム](https://xn--pckjp4dudxftf.xn--tckwe/assets/image/logo.svg)
+cf. [ゴーストクラブ\.コム](https://xn--pckjp4dudxftf.xn--tckwe)
 
 ### MONDO GROSSO / FORGOTTEN MV, VRChat World
 Prop Modeling
