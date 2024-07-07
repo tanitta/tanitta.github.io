@@ -43,6 +43,8 @@ cf. [CGWORLD vol.284 特集ページ](https://cgworld.jp/article/202203-ghostclu
 cf. [CGWORLD vol.290 特集ページ](https://cgworld.jp/article/202209-ghostclub.html)
 
 ### CGWORLD JAM ONLINE 2022
+20220528
+
 VRクラブ『GHOSTCLUB』メイキング出演
 
 cf. [VRクラブ『GHOSTCLUB』メイキング \| CGWORLD JAM vol\.4 \- CG特化型スキルアップ&就活フェス](https://cgworld.jp/special/jam/vol4/program/956/index.html)
