@@ -23,19 +23,20 @@ cf. [MONDO GROSSO / FORGOTTEN［Vocal：ermhoi \(Black Boboi / millennium parade
 ### CGWORLD CREATIVE CONFERENCE
 20211109
 
-Houdini夜会にて登壇
+Houdini夜会にて登壇、
+Houdiniによるゲームエンジンのためのアセットワークフローを紹介
 
 cf. [Houdini 夜会 SP \- CGWORLD 2021 クリエイティブカンファレンス](https://cgworld.jp/special/cgwcc2021/schedule/houdini-yakai/index.html)
 
 ### CGWORLD vol.284
 本誌、Webページにてインタビュー掲載
 
-cf. [若手アーティストたちにより運営されるバーチャル空間のクラブ、技術とデザイン力で創りだされた不思議なワールド「GHOSTCLUB」](https://cgworld.jp/article/202203-ghostclub.html)
+cf. [CGWORLD vol.284 特集ページ](https://cgworld.jp/article/202203-ghostclub.html)
 
 ### CGWORLD vol.290
 本誌、Webページにてインタビュー掲載
 
-cf. [若手アーティストたちの最新制作スタイルを探る！ クラブワールド「GHOSTCLUB」制作・運営メンバー インタビュー](https://cgworld.jp/article/202209-ghostclub.html)
+cf. [CGWORLD vol.290 特集ページ](https://cgworld.jp/article/202209-ghostclub.html)
 
 ### CGWORLD JAM ONLINE 2022
 VRクラブ『GHOSTCLUB』メイキング出演
