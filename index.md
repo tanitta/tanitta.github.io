@@ -49,7 +49,7 @@ VRクラブ『GHOSTCLUB』メイキング出演
 
 cf. [VRクラブ『GHOSTCLUB』メイキング \| CGWORLD JAM vol\.4 \- CG特化型スキルアップ&就活フェス](https://cgworld.jp/special/jam/vol4/program/956/index.html)
 
-### In The Shell
+### 攻殻機動隊 SAC_2045 EXHIBITION “In The Shell”
 20220603
 
 Prop Modeling
@@ -67,6 +67,7 @@ cf. [https://x.com/trit_techne/status/1539097677618905088](https://x.com/trit_te
 20230121
 
 Creative Assistant
+
 cf. [【VR Live】kinu 5th live "はじまりのおわり" \- YouTube](https://www.youtube.com/watch?v=iCwGa-XwKsA)
 
 cf. [https://x.com/kinu_kaiko/status/1611664108138684416](https://x.com/kinu_kaiko/status/1611664108138684416)
