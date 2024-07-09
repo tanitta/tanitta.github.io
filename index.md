@@ -23,7 +23,7 @@ cf. [MONDO GROSSO / FORGOTTEN［Vocal：ermhoi \(Black Boboi / millennium parade
 ### CGWORLD CREATIVE CONFERENCE
 20211109
 
-Houdini夜会にて登壇、
+Houdini夜会のセッションにて登壇、
 Houdiniによるゲームエンジンのためのアセットワークフローを紹介
 
 cf. [Houdini 夜会 SP \- CGWORLD 2021 クリエイティブカンファレンス](https://cgworld.jp/special/cgwcc2021/schedule/houdini-yakai/index.html)
