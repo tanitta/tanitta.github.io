@@ -113,12 +113,13 @@ cf. [CIEL LIVE SHOWCASE at VRChat \| CASE STUDY \| THINKR](https://thinkr.jp/cas
 
 cf. [SINKA LIVE SERIES ANOTHER STORY \#01 CIEL 1st VIRTUAL LIVE「空想劇\-神椿市伍番街\-」 \- Z\-aN](https://www.zan-live.com/ja/live/detail/10321)
 
+<!--
 ### FZMZ 1st Live DEEP:DAWN
 
 Engineering
 
 cf. [FZMZ 1st Live DEEP:DAWN イベント告知ページ](https://fzmz.jp/news/in.html?id=564649)
-
+-->
 ### galleria
 
 Prop Modeling
