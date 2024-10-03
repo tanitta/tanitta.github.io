@@ -6,6 +6,8 @@
 
 - [Tumblr](https://tritdesign.tumblr.com/)
 
+- [GitHub](https://github.com/tanitta)
+
 - [Twitter](https://x.com/trit_techne)
 
 ## Works
