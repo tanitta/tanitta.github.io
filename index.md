@@ -127,3 +127,10 @@ cf. [FZMZ 1st Live DEEP:DAWN イベント告知ページ](https://fzmz.jp/news/i
 Prop Modeling
 
 cf. [https://x.com/project_zia/status/1806991025224954230](https://x.com/project_zia/status/1806991025224954230)
+
+### SANRIO Virtual Festival 2025 kinu 7th live "トーチライト"
+20250302
+
+Visual Art / Engineering
+
+cf. [https://x.com/kinu_kaiko/status/1895846007503736896](https://x.com/kinu_kaiko/status/1895846007503736896)
