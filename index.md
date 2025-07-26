@@ -122,6 +122,8 @@ Engineering
 
 cf. [FZMZ 1st Live DEEP:DAWN イベント告知ページ](https://fzmz.jp/news/in.html?id=564649)
 
+ヴェネチア国際映画祭 Venice Immersive にてOut of Competition - Best of Worldsに選出
+
 ### galleria
 
 Prop Modeling
@@ -134,3 +136,5 @@ cf. [https://x.com/project_zia/status/1806991025224954230](https://x.com/project
 Visual Art / Engineering
 
 cf. [https://x.com/kinu_kaiko/status/1895846007503736896](https://x.com/kinu_kaiko/status/1895846007503736896)
+
+イギリスの国際映画祭 Raindance Immersive 2025にてBEST MUSIC SHOW受賞
