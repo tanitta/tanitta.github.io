@@ -154,7 +154,7 @@ Technical Artist
 cf. [https://x.com/trit_techne/status/2020044291108905209](https://x.com/trit_techne/status/2020044291108905209)
 
 ### 8Puronicles 第一章 ロイハッピー編 Imagine Your Starlight
-20260301
+20260208
 
 Technical Artist
 
