@@ -138,3 +138,35 @@ Visual Art / Engineering
 cf. [https://x.com/kinu_kaiko/status/1895846007503736896](https://x.com/kinu_kaiko/status/1895846007503736896)
 
 イギリスの国際映画祭Raindance Immersive 2025にてBEST MUSIC SHOWを受賞
+
+### PULSE DOME ぽかぽかの音楽隊 feat.初音ミク(demo ver.)
+20260107
+
+Technical Direction
+
+cf. [https://x.com/trit_techne/status/2008888503694975116](https://x.com/trit_techne/status/2008888503694975116)
+
+### 22/7 Star Travelers
+20260207
+
+Technical Artist
+
+cf. [https://x.com/trit_techne/status/2020044291108905209](https://x.com/trit_techne/status/2020044291108905209)
+
+### 8Puronicles 第一章 ロイハッピー編 Imagine Your Starlight
+20260301
+
+Technical Artist
+
+cf. https://x.com/trit_techne/status/2020476663285313891
+
+cf. [8Puronicles 公式サイト](https://8puronicles.sanrio.co.jp/)
+
+### KAMITSUBAKI WARS 2026 神椿横浜決戦 IN ぴあアリーナMM DAY-2 花譜 5th ONE-MAN LIVE「宿声 / 深愛」
+20260301
+
+バーチャルセットアセット制作
+
+cf. [花譜 5th ONE-MAN LIVE 「宿声 / 深愛」](https://yokohamawars2026.kamitsubaki.jp/kaf )
+
+cf. [https://x.com/trit_techne/status/2028111512314016003](https://x.com/trit_techne/status/2028111512314016003)
