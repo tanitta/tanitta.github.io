@@ -142,14 +142,14 @@ cf. [https://x.com/kinu_kaiko/status/1895846007503736896](https://x.com/kinu_kai
 ### PULSE DOME ぽかぽかの音楽隊 feat.初音ミク(demo ver.)
 20260107
 
-Technical Direction
+[VR Creative Team "MIGIRI"](https://x.com/MIGIRI_Info)にてTechnical Directionを担当
 
 cf. [https://x.com/trit_techne/status/2008888503694975116](https://x.com/trit_techne/status/2008888503694975116)
 
 ### 22/7 Star Travelers <Episode1／失われたホロスコープ> <Episode2／エメラルドの奇跡>
 20260207
 
-Technical Artist
+[VR Creative Team "MIGIRI"](https://x.com/MIGIRI_Info)にてTechnical Artistを担当
 
 cf. [https://x.com/trit_techne/status/2020044291108905209](https://x.com/trit_techne/status/2020044291108905209)
 
@@ -170,3 +170,14 @@ cf. [8Puronicles 公式サイト](https://8puronicles.sanrio.co.jp/)
 cf. [花譜 5th ONE-MAN LIVE 「宿声 / 深愛」](https://yokohamawars2026.kamitsubaki.jp/kaf )
 
 cf. [https://x.com/trit_techne/status/2028111512314016003](https://x.com/trit_techne/status/2028111512314016003)
+
+### ProjectCircles ぽかぽかの音楽隊 feat.初音ミク
+20260501
+
+[VR Creative Team "MIGIRI"](https://x.com/MIGIRI_Info)にてTechnical Directionを担当
+
+cf. [https://pjcircles.com/ Project Circles -ミクたちとの共振- 公式サイト]
+
+cf. [https://x.com/studio_gohan/status/2051272039886176625](https://x.com/studio_gohan/status/2051272039886176625)
+
+cf. [https://x.com/MIGIRI_Info/status/2053784984847335893](https://x.com/MIGIRI_Info/status/2053784984847335893)
