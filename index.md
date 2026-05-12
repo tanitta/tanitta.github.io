@@ -176,7 +176,7 @@ cf. [https://x.com/trit_techne/status/2028111512314016003](https://x.com/trit_te
 
 [VR Creative Team "MIGIRI"](https://x.com/MIGIRI_Info)にてTechnical Directionを担当
 
-cf. [https://pjcircles.com/ Project Circles -ミクたちとの共振- 公式サイト]
+cf. [Project Circles -ミクたちとの共振- 公式サイト](https://pjcircles.com/)
 
 cf. [https://x.com/studio_gohan/status/2051272039886176625](https://x.com/studio_gohan/status/2051272039886176625)
 
