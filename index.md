@@ -146,7 +146,7 @@ Technical Direction
 
 cf. [https://x.com/trit_techne/status/2008888503694975116](https://x.com/trit_techne/status/2008888503694975116)
 
-### 22/7 Star Travelers
+### 22/7 Star Travelers <Episode1／失われたホロスコープ> <Episode2／エメラルドの奇跡>
 20260207
 
 Technical Artist
@@ -158,7 +158,7 @@ cf. [https://x.com/trit_techne/status/2020044291108905209](https://x.com/trit_te
 
 Technical Artist
 
-cf. https://x.com/trit_techne/status/2020476663285313891
+cf. [https://x.com/trit_techne/status/2020476663285313891](https://x.com/trit_techne/status/2020476663285313891)
 
 cf. [8Puronicles 公式サイト](https://8puronicles.sanrio.co.jp/)
 
