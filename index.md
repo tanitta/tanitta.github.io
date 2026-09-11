@@ -165,7 +165,7 @@ cf. [8Puronicles 公式サイト](https://8puronicles.sanrio.co.jp/)
 ### KAMITSUBAKI WARS 2026 神椿横浜決戦 IN ぴあアリーナMM DAY-2 花譜 5th ONE-MAN LIVE「宿声 / 深愛」
 20260301
 
-バーチャルセットアセット制作
+バーチャルプロダクションスタジオ[MOOV](https://moov-stud.io/)の制作チームにてバーチャルセットアセットの制作を担当
 
 cf. [花譜 5th ONE-MAN LIVE 「宿声 / 深愛」](https://yokohamawars2026.kamitsubaki.jp/kaf )
 
@@ -181,3 +181,16 @@ cf. [Project Circles -ミクたちとの共振- 公式サイト](https://pjcircl
 cf. [https://x.com/studio_gohan/status/2051272039886176625](https://x.com/studio_gohan/status/2051272039886176625)
 
 cf. [https://x.com/MIGIRI_Info/status/2053784984847335893](https://x.com/MIGIRI_Info/status/2053784984847335893)
+
+### KAMITSUBAKI WARS 2026 神椿横浜戦線 at パシフィコ横浜 DAY-2 花譜 5th ONE-MAN LIVE「宿声 / 深愛（巡）」
+20260906
+
+バーチャルプロダクションスタジオ[MOOV](https://moov-stud.io/)の制作チームにて以下を担当
+
+- Virtual Set VFX Artist
+- Virtual Set Design
+- Virtual Set Modeling
+
+cf. [KAMITSUBAKI WARS 2026 神椿横浜戦線 at パシフィコ横浜 DAY-1 KAMITSUBAKI FES ’26 FIELD OF RESONANCE / DAY-2 花譜 5th ONE-MAN LIVE「宿声 / 深愛（巡）」｜LIVE/EVENT｜KAMITSUBAKI STUDIO](https://kamitsubaki.jp/event/2026/09/05/10996/)
+
+cf. [https://x.com/trit_techne/status/2096618538417140224](https://x.com/trit_techne/status/2096618538417140224)
