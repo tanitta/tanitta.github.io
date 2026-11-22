@@ -194,3 +194,13 @@ cf. [https://x.com/MIGIRI_Info/status/2053784984847335893](https://x.com/MIGIRI_
 cf. [KAMITSUBAKI WARS 2026 神椿横浜戦線 at パシフィコ横浜 DAY-1 KAMITSUBAKI FES ’26 FIELD OF RESONANCE / DAY-2 花譜 5th ONE-MAN LIVE「宿声 / 深愛（巡）」｜LIVE/EVENT｜KAMITSUBAKI STUDIO](https://kamitsubaki.jp/event/2026/09/05/10996/)
 
 cf. [https://x.com/trit_techne/status/2096618538417140224](https://x.com/trit_techne/status/2096618538417140224)
+
+### ESPERA -AdHoc Live Festival 2026-
+
+20261122
+
+[VR Creative Team "MIGIRI"](https://x.com/MIGIRI_Info)にてTechnical ArtistとしてDay3会場アセットのセットアップ等を担当
+
+cf. [ESPERA \-AdHoc Live Festival 2026\-](https://espera-adhocfes.com/)
+
+cf. [https://x.com/trit_techne/status/2124552243685060776](https://x.com/trit_techne/status/2124552243685060776)
